@@ -1,3 +1,4 @@
+
 name: Python.app
 on:
   push:
@@ -29,5 +30,3 @@ jobs:
     - name: Format with Black
       run: |
         make format
-  
-      
