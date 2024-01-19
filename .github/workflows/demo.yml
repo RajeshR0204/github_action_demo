@@ -1,5 +1,4 @@
-#demo.yaml This workflow will install python depedencies , run tests with a range of python versions
-name:Python.app
+name: Python.app
 on:
   push:
     branches: ["main"]
