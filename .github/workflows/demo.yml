@@ -7,7 +7,7 @@ on:
     branches: ["main"]
 jobs:
   build:
-    runson: ubuntu-latest
+    runs-on: ubuntu-latest
     strategy:
       fail-fast:false
       matrix:
